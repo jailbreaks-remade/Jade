@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "link": "https://google.com",
+    "featured": "Jailbreak",
+    "title": "Odyssey",
+    "slug": "",
+    "subtitle": "Jailbreak for 13.0-13.7",
+    "icon": "http://iosninja.io/img/ipas/odyssey.jpg",
+    "price": "$0.00",
+    "release_date": "2014-04-02T00:00:00",
+    "size": 219253760,
+    "promotionalText": "",
+    "category": "jailbreak",
+    "developer": {
+      "name": "Odyssey Team",
+      "id": 1039610913
+    },
+    "screenshots": [
+      "https://silzee.com/Odyssey/images/odyssey.webp"
+    ],
+    "versions": [
+      {
+        "version": "1.4.2",
+        "release_date": "2023-03-04T00:00:00",
+        "release_notes": "As always, we've made some performance improvements to make your in-app experience even better. "
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "link": "https://google.com",
+    "featured": "Jailbreak",
+    "title": "Taurine",
+    "slug": "",
+    "subtitle": "Jailbreak for 14.0-14.3",
+    "icon": "https://pbs.twimg.com/profile_images/1527447696977584140/Qotw2SLW_400x400.jpg",
+    "price": "$0.00",
+    "release_date": "2014-04-02T00:00:00",
+    "size": 219253760,
+    "promotionalText": "",
+    "category": "jailbreak",
+    "developer": {
+      "name": "Odyssey Team",
+      "id": 1039610913
+    },
+    "screenshots": [
+      "https://onejailbreak.com/site/assets/files/1107/taurine_app.650x0-is.png"
+    ],
+    "versions": [
+      {
+        "version": "1.1.6",
+        "release_date": "2023-03-04T00:00:00",
+        "release_notes": "As always, we've made some performance improvements to make your in-app experience even better. "
+      }
+    ]
+  },
+  {
+    "id":3,
+    "link": "https://google.com",
+    "featured": "Jailbreak",
+    "title": "unc0ver",
+    "slug": "",
+    "subtitle": "Jailbreak for 11.0-14.8",
+    "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+    "price": "$0.00",
+    "release_date": "2014-04-02T00:00:00",
+    "size": 219253760,
+    "promotionalText": "",
+    "category": "jailbreak",
+    "developer": {
+      "name": "unc0ver Team",
+      "id": 1039610913
+    },
+    "screenshots": [
+        "https://usescarlet.com/Repo/unc0verpg1.png",
+				"https://usescarlet.com/Repo/unc0verpg2.png",
+				"https://usescarlet.com/Repo/unc0verpg3.png"
+    ],
+    "versions": [
+      {
+        "version": "8.0.2",
+        "release_date": "2023-03-04T00:00:00",
+        "release_notes": "As always, we've made some performance improvements to make your in-app experience even better. "
+      }
+    ]
+  }
+]
