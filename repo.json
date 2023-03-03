@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "link": "https://google.com",
+    "link": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.2/Odyssey-1.4.2.ipa",
     "featured": "Jailbreak",
     "title": "Odyssey",
     "slug": "",
@@ -29,7 +29,7 @@
   },
   {
     "id": 2,
-    "link": "https://google.com",
+    "link": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
     "featured": "Jailbreak",
     "title": "Taurine",
     "slug": "",
@@ -57,7 +57,7 @@
   },
   {
     "id":3,
-    "link": "https://google.com",
+    "link": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
     "featured": "Jailbreak",
     "title": "unc0ver",
     "slug": "",
